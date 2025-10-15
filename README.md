@@ -1,2 +1,5 @@
-# robustlinks.org
-Homepage of the RobustLinks project.
+# Robust Links
+
+A simple and descriptive syntax for temporally aware linking.
+
+[Specification](spec/)
